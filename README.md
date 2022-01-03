@@ -1,0 +1,1 @@
+# user-registration-static-pure-js
